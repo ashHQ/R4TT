@@ -5,7 +5,7 @@ R4TT is a fast flexible and python based crawler
 
 
 ## Usage
-```bash
+```
                       .
  j.                  ,W
  EW,                i## GEEEEEEEL GEEEEEEEL
